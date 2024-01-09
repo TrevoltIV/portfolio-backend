@@ -1,0 +1,13 @@
+{
+  "title": "Contigo Janitorial",
+  "description": "A basic business website for one of my friends who provides janitorial services. Only two pages complete because they haven't been focusing on their business much recently.",
+  "date_started": "May 12, 2023",
+  "date_completed": "May 14, 2023",
+  "github_link": "https://github.com/TrevoltIV/contigo",
+  "website_link": "https://contigo-trevoltiv.vercel.app",
+  "image": "/images/contigo.png",
+  "image_size": {
+    "width": 150,
+    "height": 150
+  }
+}

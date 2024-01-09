@@ -1,0 +1,12 @@
+{
+    "title": "This website",
+    "description": "You know, portfolio things.",
+    "date_started": "December 8, 2023",
+    "date_completed": "December 8, 2023",
+    "github_link": "https://github.com/TrevoltIV/portfolio",
+    "image": "/images/logo.png",
+    "image_size": {
+        "width": 130,
+        "height": 130
+    }
+}

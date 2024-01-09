@@ -1,0 +1,26 @@
+{
+  "198315273129": {
+    "key": "image_size",
+    "value": {
+      "width": 150,
+      "height": 70
+    },
+    "document": "databased"
+  },
+  "390587125102": {
+    "key": "image_size",
+    "value": {
+      "width": 130,
+      "height": 130
+    },
+    "document": "this_website"
+  },
+  "1702369440568": {
+    "key": "image_size",
+    "value": {
+      "width": 150,
+      "height": 150
+    },
+    "document": "contigo"
+  }
+}

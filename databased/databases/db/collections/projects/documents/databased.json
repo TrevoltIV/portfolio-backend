@@ -1,0 +1,12 @@
+{
+    "title": "DataBASED",
+    "description": "Open source JSON-based database library, packaged with NPM. Useful for smaller projects where you don't want to go through the trouble of implementing a more scalable database solution. You can install it with 'npm i databased'.",
+    "date_started": "December 2, 2023",
+    "date_completed": "Still in development",
+    "github_link": "https://github.com/TrevoltIV/DataBASED",
+    "image": "/images/databased.png",
+    "image_size": {
+        "width": 150,
+        "height": 70
+    }
+}
